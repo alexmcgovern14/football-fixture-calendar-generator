@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:Chelsea fixtures
+BEGIN:VEVENT
+SUMMARY:Ipswich Town vs Chelsea | Premier League
+LOCATION:Portman Road
+DESCRIPTION:Ipswich Town vs Chelsea | Premier League | Kick-off time 19:45 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20241230T194500Z
+DTEND:20241230T214500Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ipswich Town vs Chelsea kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace vs Chelsea | Premier League
+LOCATION:Selhurst Park
+DESCRIPTION:Crystal Palace vs Chelsea | Premier League | Kick-off time 15:00 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250104T150000Z
+DTEND:20250104T170000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Crystal Palace vs Chelsea kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs Bournemouth | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs Bournemouth | Premier League | Kick-off time 19:30 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250114T193000Z
+DTEND:20250114T213000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs Bournemouth kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs Wolverhampton Wanderers | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs Wolverhampton Wanderers | Premier League | Kick-off time 20:00 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250120T200000Z
+DTEND:20250120T220000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs Wolverhampton Wanderers kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City vs Chelsea | Premier League
+LOCATION:Etihad Stadium
+DESCRIPTION:Manchester City vs Chelsea | Premier League | Kick-off time 17:30 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250125T173000Z
+DTEND:20250125T193000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Manchester City vs Chelsea kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs West Ham United | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs West Ham United | Premier League | Kick-off time 20:00 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250203T200000Z
+DTEND:20250203T220000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs West Ham United kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton & Hove Albion vs Chelsea | Premier League
+LOCATION:American Express Stadium
+DESCRIPTION:Brighton & Hove Albion vs Chelsea | Premier League | Kick-off time 20:00 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250214T200000Z
+DTEND:20250214T220000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Brighton & Hove Albion vs Chelsea kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa vs Chelsea | Premier League
+LOCATION:Villa Park
+DESCRIPTION:Aston Villa vs Chelsea | Premier League | Kick-off time 15:00 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250222T150000Z
+DTEND:20250222T170000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Aston Villa vs Chelsea kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs Southampton | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs Southampton | Premier League | Kick-off time 19:45 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250226T194500Z
+DTEND:20250226T214500Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs Southampton kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs Leicester City | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs Leicester City | Premier League | Kick-off time 15:00 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250308T150000Z
+DTEND:20250308T170000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs Leicester City kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs Tottenham Hotspur | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs Tottenham Hotspur | Premier League | Kick-off time 19:45 BST
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250402T184500Z
+DTEND:20250402T204500Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs Tottenham Hotspur kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs Ipswich Town | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs Ipswich Town | Premier League | Kick-off time 15:00 BST
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250412T140000Z
+DTEND:20250412T160000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs Ipswich Town kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs Everton | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs Everton | Premier League | Kick-off time 15:00 BST
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250426T140000Z
+DTEND:20250426T160000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs Everton kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle United vs Chelsea | Premier League
+LOCATION:St James' Park
+DESCRIPTION:Newcastle United vs Chelsea | Premier League | Kick-off time 15:00 GMT
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250510T150000Z
+DTEND:20250510T170000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Newcastle United vs Chelsea kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea vs Manchester United | Premier League
+LOCATION:Stamford Bridge
+DESCRIPTION:Chelsea vs Manchester United | Premier League | Kick-off time 15:00 BST
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250518T140000Z
+DTEND:20250518T160000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chelsea vs Manchester United kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest vs Chelsea | Premier League
+LOCATION:City Ground
+DESCRIPTION:Nottingham Forest vs Chelsea | Premier League | Kick-off time 16:00 BST
+URL:https://en.wikipedia.org/wiki/2024%E2%80%9325_Chelsea_F.C._season Premier League/Matches
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+PRIORITY:1
+DTSTART:20250525T150000Z
+DTEND:20250525T170000Z
+DTSTAMP:20250101T190000Z
+X-COLOR:#FFFFFF
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Nottingham Forest vs Chelsea kicks off in 30 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
