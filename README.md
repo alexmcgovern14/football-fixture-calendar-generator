@@ -1,4 +1,4 @@
-# Football fixture calendar generator
+# Football fixtures calendar generator
 
 Ever booked a social/work event only to find out later that your team is playing at the same time? 
 
